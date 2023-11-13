@@ -1,0 +1,6 @@
+{
+	"parent": "energy_manipulation:item/jar_of_energy/_jar",
+	"textures": {
+		"layer2": "energy_manipulation:item/energy/generic"
+	}
+}

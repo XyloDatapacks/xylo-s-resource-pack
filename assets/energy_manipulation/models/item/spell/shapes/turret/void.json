@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "energy_manipulation:item/energy/void"
+	},
+	"display": {
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"scale": [0.87, 0.87, 0.87]
+		}
+	}
+}

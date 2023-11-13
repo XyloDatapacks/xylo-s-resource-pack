@@ -1,0 +1,15 @@
+{
+	"parent": "energy_manipulation:item/spell/book/book_casting",
+	"display": {
+		"firstperson_righthand": {
+			"rotation": [32.74, -24.1, 32.8],
+			"translation": [-0.37, 2.95, 1.38],
+			"scale": [0, 0, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [32.74, -24.1, 32.8],
+			"translation": [-0.37, 2.95, 1.38],
+			"scale": [0, 0, 0]
+		}
+	}
+}

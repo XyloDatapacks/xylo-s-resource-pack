@@ -1,0 +1,158 @@
+{
+  "spell.book.open": {
+    "sounds": [
+      {
+        "name": "item/book/open_flip2",
+        "volume": 2.0
+      }
+    ],
+    "subtitle": "sounds.energy_manipulation.spell.book.open"
+  },
+  "spell.book.close": {
+    "sounds": [
+      {
+        "name": "item/book/open_flip3",
+        "volume": 2.0
+      }
+    ],
+    "subtitle": "sounds.energy_manipulation.spell.book.close"
+  },
+
+
+  "spell.prepare_cast": {
+    "sounds": [
+      {
+        "volume":0.15,
+        "attenuation_distance": 48,
+        "name": "mob/evocation_illager/prepare_attack2"
+      }
+    ],
+    "subtitle": "sounds.energy_manipulation.spell.cast.prepare_cast"
+  },
+  "spell.cast": {
+    "sounds": [
+      {
+        "attenuation_distance": 48,
+        "volume":0.15,
+        "name":"mob/evocation_illager/cast1"
+      },
+      {
+        "attenuation_distance": 48,
+        "volume":0.15,
+        "name":"mob/evocation_illager/cast2"
+      }
+    ],
+    "subtitle": "sounds.energy_manipulation.spell.cast.cast"
+  },
+  "spell.cost.energy_withering": {
+    "sounds": [
+      "mob/guardian/guardian_hit1",
+      "mob/guardian/guardian_hit2",
+      "mob/guardian/guardian_hit3",
+      "mob/guardian/guardian_hit4"
+    ],
+    "subtitle": "sounds.energy_manipulation.spell.cost.withering"
+  },
+
+  
+  "spell.run.shape_creation": {
+    "sounds": [
+      {
+        "attenuation_distance": 48,
+        "volume":0.15,
+        "name":"energy_manipulation:spell/shape_creation"
+      }
+    ],
+    "subtitle": "sounds.energy_manipulation.spell.run.shape_creation"
+  },
+  "spell.run.cost_not_paid": {
+    "sounds": [
+      "random/glass1",
+      "random/glass2",
+      "random/glass3"
+    ],
+    "subtitle": "sounds.energy_manipulation.spell.run.cost_not_paid"
+  },
+
+
+  "spell.effect.fire": {
+    "sounds": [
+      "mob/ghast/fireball4"
+    ],
+    "subtitle": "sounds.energy_manipulation.spell.effect.fire"
+  },
+  "spell.effect.light": {
+    "sounds": [
+      "mob/ghast/fireball4"
+    ],
+    "subtitle": "sounds.energy_manipulation.spell.effect.light"
+  },
+  "spell.effect.break": {
+    "sounds": [
+      "dig/stone1",
+      "dig/stone2",
+      "dig/stone3",
+      "dig/stone4"
+    ],
+    "subtitle": "sounds.energy_manipulation.spell.effect.break"
+  },
+  "spell.effect.push": {
+    "sounds": [
+      "item/trident/riptide2"
+    ],
+    "subtitle": "sounds.energy_manipulation.spell.effect.push"
+  },
+  "spell.effect.pull": {
+    "sounds": [
+      "item/trident/riptide2"
+    ],
+    "subtitle": "sounds.energy_manipulation.spell.effect.pull"
+  },
+  "spell.effect.translocation": {
+    "sounds": [
+      "mob/endermen/portal",
+      "mob/endermen/portal2"
+    ],
+    "subtitle": "sounds.energy_manipulation.spell.effect.translocation"
+  },
+
+
+
+
+
+  "jar_of_energy.block.place": {
+    "sounds": [
+      "dig/stone1",
+      "dig/stone2",
+      "dig/stone3",
+      "dig/stone4"
+    ],
+    "subtitle": "sounds.energy_manipulation.jar_of_energy.block.place"
+  },
+  "jar_of_energy.block.break": {
+    "sounds": [
+      "random/glass1",
+      "random/glass2",
+      "random/glass3"
+    ],
+    "subtitle": "sounds.energy_manipulation.jar_of_energy.block.break"
+  },
+  "jar_of_energy.block.fill": {
+    "sounds": [
+      "entity/itemframe/add_item1",
+      "entity/itemframe/add_item2",
+      "entity/itemframe/add_item3",
+      "entity/itemframe/add_item4"
+    ],
+    "subtitle": "sounds.energy_manipulation.jar_of_energy.block.fill"
+  },
+  "jar_of_energy.block.empty": {
+    "sounds": [
+      "entity/itemframe/remove_item1",
+      "entity/itemframe/remove_item2",
+      "entity/itemframe/remove_item3",
+      "entity/itemframe/remove_item4"
+    ],
+    "subtitle": "sounds.energy_manipulation.jar_of_energy.block.empty"
+  }
+}

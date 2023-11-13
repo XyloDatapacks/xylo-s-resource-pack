@@ -1,0 +1,20 @@
+{
+    "providers": [
+        
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/icons/right_click.png",
+            "ascent": 12,
+            "height": 14,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/icons/left_click.png",
+            "ascent": 12,
+            "height": 14,
+            "chars": ["\uE001"]
+        }
+
+    ]
+}

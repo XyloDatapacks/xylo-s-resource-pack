@@ -1,0 +1,16 @@
+{
+  "parent": "minecraft:item/handheld_rod",
+  "textures": {
+    "layer0": "minecraft:item/warped_fungus_on_a_stick"
+  },
+	
+	"overrides": [
+
+		{"predicate": {"custom_model_data":12341001}, "model": "energy_manipulation:item/jar_of_energy/sun"},
+		{"predicate": {"custom_model_data":12341002}, "model": "energy_manipulation:item/jar_of_energy/ground"},
+		{"predicate": {"custom_model_data":12341003}, "model": "energy_manipulation:item/jar_of_energy/soul"},
+		{"predicate": {"custom_model_data":12341004}, "model": "energy_manipulation:item/jar_of_energy/dark"},
+		{"predicate": {"custom_model_data":12341005}, "model": "energy_manipulation:item/jar_of_energy/void"}
+	
+	]
+}

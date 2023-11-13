@@ -1,0 +1,42 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "energy_manipulation:item/energy/soul"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3, 1],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3, 1],
+			"scale": [0.35, 0.35, 0.35]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 3.7, 0.88],
+			"scale": [0.34, 0.34, 0.34]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -90, 25],
+			"translation": [1.13, 3.7, 0.88],
+			"scale": [0.34, 0.34, 0.34]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.43, 0.43, 0.43]
+		},
+		"gui": {
+			"scale": [0.76, 0.76, 0.76]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 13, 7]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"scale": [0.87, 0.87, 0.87]
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/charcoal"
+  },
+  
+  "overrides": [
+    {"predicate": {"custom_model_data":12341000}, "model": "energy_manipulation:item/energy/generic"},
+		{"predicate": {"custom_model_data":12341001}, "model": "energy_manipulation:item/energy/sun"},
+		{"predicate": {"custom_model_data":12341002}, "model": "energy_manipulation:item/energy/ground"},
+		{"predicate": {"custom_model_data":12341003}, "model": "energy_manipulation:item/energy/soul"},
+		{"predicate": {"custom_model_data":12341004}, "model": "energy_manipulation:item/energy/dark"},
+		{"predicate": {"custom_model_data":12341005}, "model": "energy_manipulation:item/energy/void"}
+  ]
+}

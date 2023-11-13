@@ -1,0 +1,64 @@
+{
+    "providers": [
+        
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/empty.png",
+            "ascent": 32,
+            "height": 64,
+            "chars": ["e"]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/spell/font/keys/generic.png",
+            "ascent": 32,
+            "height": 64,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/spell/font/keys/concatenate.png",
+            "ascent": 32,
+            "height": 64,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/spell/font/keys/program.png",
+            "ascent": 32,
+            "height": 64,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/spell/font/keys/instruction.png",
+            "ascent": 32,
+            "height": 64,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/spell/font/keys/shape.png",
+            "ascent": 32,
+            "height": 64,
+            "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/spell/font/keys/effect.png",
+            "ascent": 32,
+            "height": 64,
+            "chars": ["\uE005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/spell/font/info.png",
+            "ascent": 32,
+            "height": 64,
+            "chars": ["\uE006"]
+        }
+
+
+
+    ]
+}
