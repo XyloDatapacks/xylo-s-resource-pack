@@ -32,6 +32,7 @@
 	"energy_manipulation.spell.key.angle_format": "format",
 	"energy_manipulation.spell.key.yawn_positive": "yawn",
 	"energy_manipulation.spell.key.pitch_positive": "pitch",
+	"energy_manipulation.spell.key.max_distance_int": "max_distance",
 
 	"energy_manipulation.spell.value.concatenate_index": "index",
 	"energy_manipulation.spell.value.location_index": "index",
@@ -127,6 +128,7 @@
 	"energy_manipulation.spell.display.info.key.distance.value.min-max": "Select both a max and min distance\n\n",
 	"energy_manipulation.spell.display.info.key.min_distance": "Minimum Radius\n\n",
 	"energy_manipulation.spell.display.info.key.max_distance": "Maximum Radius\n\n",
+	"energy_manipulation.spell.display.info.key.max_distance_int": "Maximum Radius\n\n",
 	"energy_manipulation.spell.display.info.key.sort": "Order in which the targets will be taken into account\n\n",
 	"energy_manipulation.spell.display.info.key.sort.value.arbitrary": "Arbitrary order chosen from the game\n\n",
 	"energy_manipulation.spell.display.info.key.sort.value.nearest": "Sort from nearest to furthest\n\n",
