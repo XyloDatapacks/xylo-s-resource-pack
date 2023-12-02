@@ -1,6 +1,7 @@
 {
   "pack": {
+    "description": "Resurcepack needed for all Xylo_Datapacks's packs",
     "pack_format": 18,
-    "description": "Resurcepack needed for all Xylo_Datapacks's packs"
+    "supported_formats": [18, 20]
   }
 }
