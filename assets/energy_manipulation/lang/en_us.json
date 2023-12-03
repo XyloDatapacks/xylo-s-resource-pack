@@ -151,6 +151,7 @@
 	"energy_manipulation.spell.display.info.key.effect.value.break": "Breaks the block\nDeals moderate damage to the target\n",
 	"energy_manipulation.spell.display.info.key.effect.value.push": "Pushes the target in a chosen direction\n\n",
 	"energy_manipulation.spell.display.info.key.effect.value.pull": "Pulls the target toward a chosen position\n\n",
+	"energy_manipulation.spell.display.info.key.effect.value.spell_break": "Destroys the targeted spell\n\n",
 	"energy_manipulation.spell.display.info.key.effect.value.translocation": "Teleports the target to a chosen position\n\n",
 
 	"energy_manipulation.spell.display.info.key.direction": "Changes the execution direction\n\n",
