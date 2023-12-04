@@ -108,6 +108,12 @@
     ],
     "subtitle": "sounds.energy_manipulation.spell.effect.pull"
   },
+  "spell.effect.spell_break": {
+    "sounds": [
+      
+    ],
+    "subtitle": "sounds.energy_manipulation.spell.effect.spell_break"
+  },
   "spell.effect.translocation": {
     "sounds": [
       "mob/endermen/portal",

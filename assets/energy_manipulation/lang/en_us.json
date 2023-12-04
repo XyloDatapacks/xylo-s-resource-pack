@@ -294,6 +294,7 @@
 	"sounds.energy_manipulation.spell.effect.break": "Break Spell Effect",
 	"sounds.energy_manipulation.spell.effect.push": "Push Spell Effect",
 	"sounds.energy_manipulation.spell.effect.pull": "Pull Spell Effect",
+	"sounds.energy_manipulation.spell.effect.spell_break": "Spell Break Spell Effect",
 	"sounds.energy_manipulation.spell.effect.translocation": "Translocation Spell Effect",
 	"sounds.energy_manipulation.jar_of_energy.block.place": "Jar placed",
 	"sounds.energy_manipulation.jar_of_energy.block.break": "Jar breaks",
