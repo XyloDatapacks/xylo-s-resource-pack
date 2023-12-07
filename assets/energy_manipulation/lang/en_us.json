@@ -85,12 +85,26 @@
 	"energy_manipulation.spell.display.info.key.shape.value.projectile": "behaves as a projectile and applies an effect to the target hit\n",
 	"energy_manipulation.spell.display.info.key.shape.value.sprout": "behaves as a slow projectile and applies an effect to the target hit\n",
 	"energy_manipulation.spell.display.info.key.shape.value.turret": "Does not apply effects, but runs the next concatenate on certain conditions\n",
+	"energy_manipulation.spell.display.info.key.shape.value.aoe": "Creates an area of effect which will apply an effect to all matching targets in range\n",
 
 	"energy_manipulation.spell.display.info.key.movement": "Sets the movement of the spell\n\n",
 	"energy_manipulation.spell.display.info.key.movement.value.parabolic": "Follow a parabolic trajectory\n\n",
 	"energy_manipulation.spell.display.info.key.movement.value.straight": "The trajectory is not affected by gravity\n\n",
 
 	"energy_manipulation.spell.display.info.key.duration": "Duration of the parent node\n\n",
+
+	"energy_manipulation.spell.display.info.key.size": "Dimension of a cubic volume\n\n",
+	"energy_manipulation.spell.display.info.key.target_aoe": "Select one or more entities as target\n\n",
+	"energy_manipulation.spell.display.info.key.target_aoe.value.none": "No target\n\n",
+	"energy_manipulation.spell.display.info.key.target_aoe.value.player": "Players\n(Cannot select invisible players)\n",
+	"energy_manipulation.spell.display.info.key.target_aoe.value.mob": "Mobs\n\n",
+	"energy_manipulation.spell.display.info.key.target_aoe.value.player_and_mob": "Players and Mobs \n(Cannot select invisible players)\n",
+	"energy_manipulation.spell.display.info.key.target_aoe.value.enemy": "Hostile mobs\n\n",
+	"energy_manipulation.spell.display.info.key.target_aoe.value.ally": "Friendly mobs\n\n",
+	"energy_manipulation.spell.display.info.key.target_aoe.value.animal": "Animals\n\n",
+	"energy_manipulation.spell.display.info.key.target_aoe.value.item": "Items\n\n",
+	"energy_manipulation.spell.display.info.key.target_aoe.value.projectile": "Projectiles (arrows, tridents, snowballs, ...)\n\n",
+	"energy_manipulation.spell.display.info.key.target_aoe.value.spell": "Spells\n\n",
 
 	"energy_manipulation.spell.display.info.key.condition": "Checks a condition to decide whether to activate the parent node or not\n",
 	"energy_manipulation.spell.display.info.key.condition.value.none": "Returns true\n\n",
