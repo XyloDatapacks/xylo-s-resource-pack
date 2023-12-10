@@ -165,6 +165,7 @@
 	"energy_manipulation.spell.display.info.key.effect.value.fire": "Sets targets, or block, on fire and deals low damage\n\n",
 	"energy_manipulation.spell.display.info.key.effect.value.light": "Places a permanent light source\nMakes the target glow\n",
 	"energy_manipulation.spell.display.info.key.effect.value.break": "Breaks the block\nDeals moderate damage to the target\n",
+	"energy_manipulation.spell.display.info.key.effect.value.release_effect": "Applies to the target some of the duration of a potion (found in a specified slot of the caster's inventory)\n",
 	"energy_manipulation.spell.display.info.key.effect.value.push": "Pushes the target in a chosen direction\n\n",
 	"energy_manipulation.spell.display.info.key.effect.value.pull": "Pulls the target toward a chosen position\n\n",
 	"energy_manipulation.spell.display.info.key.effect.value.spell_break": "Destroys the targeted spell\n\n",
@@ -214,8 +215,12 @@
 	"energy_manipulation.spell.display.info.key.blocking_hits.value.blocks": "Stops only when it finds blocks\n\n",
 	"energy_manipulation.spell.display.info.key.blocking_hits.value.entities": "Stops only when it finds entities\n\n",
 
-
-
+	"energy_manipulation.spell.display.info.key.potion_duration": "Duration of the potion to apply to the target\n\n",
+	"energy_manipulation.spell.display.info.key.slot": "Slot of the inventory\n\n",
+	"energy_manipulation.spell.display.info.key.slot.value.mainhand": "Mainhand slot\n\n",
+	"energy_manipulation.spell.display.info.key.slot.value.offhand": "Offhand slot\n\n",
+	"energy_manipulation.spell.display.info.key.slot.value.hotbar": "A slot in the hotbar\n\n",
+	"energy_manipulation.spell.display.info.key.slot.value.inventory": "A slot in the inventory\n\n",
 
 
 
