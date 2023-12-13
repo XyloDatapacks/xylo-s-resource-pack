@@ -24,6 +24,13 @@
 	"energy_manipulation.spell.key.generic": "",
 	"energy_manipulation.spell.value.empty": "",
 
+	"energy_manipulation.spell.value_cost_type.generic": "\uE000",
+	"energy_manipulation.spell.value_cost_type.sun": "\uE001",
+	"energy_manipulation.spell.value_cost_type.ground": "\uE002",
+	"energy_manipulation.spell.value_cost_type.soul": "\uE003",
+	"energy_manipulation.spell.value_cost_type.dark": "\uE004",
+	"energy_manipulation.spell.value_cost_type.void": "\uE005",
+
 	"energy_manipulation.spell.key.concatenate_index": "index",
 	"energy_manipulation.spell.key.location_index": "index",
 	"energy_manipulation.spell.key.entity_index": "index",
@@ -33,7 +40,20 @@
 	"energy_manipulation.spell.key.yawn_positive": "yawn",
 	"energy_manipulation.spell.key.pitch_positive": "pitch",
 	"energy_manipulation.spell.key.max_distance_int": "max_distance",
+	"energy_manipulation.spell.key.get_value": "value",
+	"energy_manipulation.spell.key.get_value1": "value 1",
+	"energy_manipulation.spell.key.get_value2": "value 2",
+	"energy_manipulation.spell.key.compare_type": "check",
+	"energy_manipulation.spell.key.target_count": "target count",
+	"energy_manipulation.spell.key.fire_mode": "fire mode",
+	"energy_manipulation.spell.key.fire_rate": "fire rate",
 
+	"energy_manipulation.spell.value.less_than": "<",
+	"energy_manipulation.spell.value.less_than_or_equal_to": "<=",
+	"energy_manipulation.spell.value.equal": "=",
+	"energy_manipulation.spell.value.greater_than_or_equal_to": ">=",
+	"energy_manipulation.spell.value.greater_than": ">",
+	"energy_manipulation.spell.value.target_number": "target count",
 	"energy_manipulation.spell.value.concatenate_index": "index",
 	"energy_manipulation.spell.value.location_index": "index",
 	"energy_manipulation.spell.value.entity_index": "index",
@@ -45,13 +65,17 @@
 	"energy_manipulation.spell.value.shape_projectile": "projectile",
 	"energy_manipulation.spell.value.shape_sprout": "sprout",
 	"energy_manipulation.spell.value.shape_turret": "turret",
-
-	"energy_manipulation.spell.value_cost_type.generic": "\uE000",
-	"energy_manipulation.spell.value_cost_type.sun": "\uE001",
-	"energy_manipulation.spell.value_cost_type.ground": "\uE002",
-	"energy_manipulation.spell.value_cost_type.soul": "\uE003",
-	"energy_manipulation.spell.value_cost_type.dark": "\uE004",
-	"energy_manipulation.spell.value_cost_type.void": "\uE005",
+	"energy_manipulation.spell.value.skip_to": "skip to",
+	"energy_manipulation.spell.value.mark_entity": "mark entity",
+	"energy_manipulation.spell.value.save_location": "save location",
+	"energy_manipulation.spell.value.marked_entity": "marked entity",
+	"energy_manipulation.spell.value.player_and_mob": "mob & player",
+	"energy_manipulation.spell.value.really_slow": "really slow",
+	"energy_manipulation.spell.value.really_fast": "really fast",
+	"energy_manipulation.spell.value.release_potion": "release potion",
+	"energy_manipulation.spell.value.spell_break": "spell break",
+	
+	
 
 
 
@@ -76,6 +100,24 @@
 	"energy_manipulation.spell.display.info.key.instruction.value.save_location": "Saves the current spell's location in your list of locations\n",
 	"energy_manipulation.spell.display.info.key.instruction.value.mark_entity": "Saves a target in your list of marked entities\n\n",
 	"energy_manipulation.spell.display.info.key.instruction.value.skip_to": "Skips to another concatenate of this spell if a condition is met\n",
+	"energy_manipulation.spell.display.info.key.instruction.value.counter": "Change the value of the internal counter\n\n",
+
+	"energy_manipulation.spell.display.info.key.counter": "How to modify the counter's value\n\n",
+	"energy_manipulation.spell.display.info.key.get_value": "Returns a value\n\n",
+	"energy_manipulation.spell.display.info.key.get_value.value.number": "Chose a numerical value to return\n\n",
+	"energy_manipulation.spell.display.info.key.get_value.value.target_number": "Returns the number of targets\n\n",
+	"energy_manipulation.spell.display.info.key.get_value.value.counter": "Returns the vaue of the counter\n\n",
+	"energy_manipulation.spell.display.info.key.get_value1": "Returns a value\n\n",
+	"energy_manipulation.spell.display.info.key.get_value1.value.number": "Chose a numerical value to return\n\n",
+	"energy_manipulation.spell.display.info.key.get_value1.value.target_number": "Returns the number of targets\n\n",
+	"energy_manipulation.spell.display.info.key.get_value1.value.counter": "Returns the vaue of the counter\n\n",
+	"energy_manipulation.spell.display.info.key.get_value2": "Returns a value\n\n",
+	"energy_manipulation.spell.display.info.key.get_value2.value.number": "Chose a numerical value to return\n\n",
+	"energy_manipulation.spell.display.info.key.get_value2.value.target_number": "Returns the number of targets\n\n",
+	"energy_manipulation.spell.display.info.key.get_value2.value.counter": "Returns the vaue of the counter\n\n",
+	"energy_manipulation.spell.display.info.key.number": "A numerical value\n\n",
+
+	"energy_manipulation.spell.display.info.key.compare_type": "Comparison operator to use\n\n",
 
 	"energy_manipulation.spell.display.info.key.concatenate_index": "Index of the concatenate\n\n",
 
@@ -223,6 +265,7 @@
 	"energy_manipulation.spell.display.info.key.slot.value.inventory": "A slot in the inventory\n\n",
 
 
+	
 	"energy_manipulation.spell.run.effect.release_potion.aoe": "Released Potion",
 
 
