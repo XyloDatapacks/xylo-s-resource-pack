@@ -377,6 +377,13 @@
 	"sounds.energy_manipulation.jar_of_energy.block.place": "Jar placed",
 	"sounds.energy_manipulation.jar_of_energy.block.break": "Jar breaks",
 	"sounds.energy_manipulation.jar_of_energy.block.fill": "Jar fills",
-	"sounds.energy_manipulation.jar_of_energy.block.empty": "Jar empties"
+	"sounds.energy_manipulation.jar_of_energy.block.empty": "Jar empties",
+
+	"sounds.energy_manipulation.trinket.scrying_ward.activate": "Scrying Ward activated",
+	"sounds.energy_manipulation.trinket.scrying_ward.deactivate": "Scrying Ward deactivated",
+	"sounds.energy_manipulation.trinket.scrying_ward.unmark": "Scrying Ward unmark player",
+	"sounds.energy_manipulation.trinket.translocation_ward.throw": "Translocation Ward thrown",
+	"sounds.energy_manipulation.trinket.translocation_ward.break": "Translocation Ward broken",
+	"sounds.energy_manipulation.trinket.translocation_ward.block_tp": "Translocation Ward tp blocked"
 }
 

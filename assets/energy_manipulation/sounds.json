@@ -166,5 +166,35 @@
       "entity/itemframe/remove_item4"
     ],
     "subtitle": "sounds.energy_manipulation.jar_of_energy.block.empty"
+  },
+  "trinket.scrying_ward.activate": {
+    "sounds": [
+    ],
+    "subtitle": "sounds.energy_manipulation.trinket.scrying_ward.activate"
+  },
+  "trinket.scrying_ward.deactivate": {
+    "sounds": [
+    ],
+    "subtitle": "sounds.energy_manipulation.trinket.scrying_ward.deactivate"
+  },
+  "trinket.scrying_ward.unmark": {
+    "sounds": [
+    ],
+    "subtitle": "sounds.energy_manipulation.trinket.scrying_ward.unmark"
+  },
+  "trinket.translocation_ward.throw": {
+    "sounds": [
+    ],
+    "subtitle": "sounds.energy_manipulation.trinket.translocation_ward.throw"
+  },
+  "trinket.translocation_ward.break": {
+    "sounds": [
+    ],
+    "subtitle": "sounds.energy_manipulation.trinket.translocation_ward.break"
+  },
+  "trinket.translocation_ward.block_tp": {
+    "sounds": [
+    ],
+    "subtitle": "sounds.energy_manipulation.trinket.translocation_ward.block_tp"
   }
 }
