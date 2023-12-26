@@ -13,7 +13,8 @@
 		{"predicate": {"custom_model_data":12341005}, "model": "energy_manipulation:item/jar_of_energy/void"},
 
 		{"predicate": {"custom_model_data":12341010}, "model": "energy_manipulation:item/trinket/scrying_ward/scrying_ward"},
-		{"predicate": {"custom_model_data":12341011}, "model": "energy_manipulation:item/trinket/translocation_ward/translocation_ward"}
+		{"predicate": {"custom_model_data":12341011}, "model": "energy_manipulation:item/trinket/scrying_ward/scrying_ward_active"},
+		{"predicate": {"custom_model_data":12341012}, "model": "energy_manipulation:item/trinket/translocation_ward/translocation_ward"}
 	
 	]
 }
