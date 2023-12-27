@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"layer0": "energy_manipulation:item/spell/shapes/projectile/generic"
+		"layer0": "energy_manipulation:item/spell/shapes/sprout/generic"
 	},
 	"elements": [
 		{
