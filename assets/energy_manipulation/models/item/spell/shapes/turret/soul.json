@@ -1,13 +1,7 @@
 {
-	"credit": "Made with Blockbench",
-	"parent": "item/generated",
+	"parent": "energy_manipulation:item/spell/shapes/turret/base",
 	"textures": {
-		"layer0": "energy_manipulation:item/energy/soul"
-	},
-	"display": {
-		"fixed": {
-			"rotation": [0, 180, 0],
-			"scale": [0.87, 0.87, 0.87]
-		}
+		"layer0": "energy_manipulation:item/spell/book/soul/overcharging",
+		"layer1": "energy_manipulation:item/spell/shapes/aoe/soul"
 	}
-}
+}s
