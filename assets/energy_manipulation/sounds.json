@@ -169,31 +169,74 @@
   },
   "trinket.scrying_ward.activate": {
     "sounds": [
+      {
+        "name": "random/click",
+        "pitch": 1.3,
+        "volume": 0.5
+      }
     ],
     "subtitle": "sounds.energy_manipulation.trinket.scrying_ward.activate"
   },
   "trinket.scrying_ward.deactivate": {
     "sounds": [
+      {
+        "name": "random/click",
+        "pitch": 1.1,
+        "volume": 0.6
+      }
     ],
     "subtitle": "sounds.energy_manipulation.trinket.scrying_ward.deactivate"
   },
   "trinket.scrying_ward.unmark": {
     "sounds": [
+      {
+        "name": "block/grindstone/grindstone1",
+        "volume": 0.5
+      },
+      {
+        "name": "block/grindstone/grindstone2",
+        "volume": 0.5
+      },
+      {
+        "name": "block/grindstone/grindstone3",
+        "volume": 0.5
+      }
     ],
     "subtitle": "sounds.energy_manipulation.trinket.scrying_ward.unmark"
   },
   "trinket.translocation_ward.throw": {
     "sounds": [
+      "random/bow"
     ],
     "subtitle": "sounds.energy_manipulation.trinket.translocation_ward.throw"
   },
   "trinket.translocation_ward.break": {
     "sounds": [
+      {
+        "name": "random/glass1",
+        "pitch": 1.5
+      }
     ],
     "subtitle": "sounds.energy_manipulation.trinket.translocation_ward.break"
   },
   "trinket.translocation_ward.block_tp": {
     "sounds": [
+      {
+        "name": "block/chain/break1",
+        "volume": 0.8
+      },
+      {
+        "name": "block/chain/break2",
+        "volume": 0.8
+      },
+      {
+        "name": "block/chain/break3",
+        "volume": 0.8
+      },
+      {
+        "name": "block/chain/break4",
+        "volume": 0.8
+      }
     ],
     "subtitle": "sounds.energy_manipulation.trinket.translocation_ward.block_tp"
   }
