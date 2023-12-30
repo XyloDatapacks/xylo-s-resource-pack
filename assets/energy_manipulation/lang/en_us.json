@@ -360,6 +360,16 @@
 	"advancements.energy_manipulation.trinket.translocation_ward.generic_description": "Kill a %1$s Spirit, holding a single ender pearl, to obtain a %2$s",
 	"advancements.energy_manipulation.trinket.translocation_ward.generic_description2": "\nWhen placed, blocks translocation from inside to outside the influence range",
 
+
+	"settings.energy_manipulation.shape_particles.projectile": "Projectile Particles Visibility",
+	"settings.energy_manipulation.shape_particles.sprout": "Sprout Particles Visibility",
+	"settings.energy_manipulation.shape_particles.aoe": "Area of Effect Particles Visibility",
+	"settings.energy_manipulation.shape_particles.turret": "Turret Particles Visibility",
+	"settings.energy_manipulation.shape_particles.active": "True",
+	"settings.energy_manipulation.shape_particles.inactive": "False",
+
+
+
 	"sounds.energy_manipulation.spell.book.open": "Spell book opens",
 	"sounds.energy_manipulation.spell.book.close": "Spell book closes",
 
