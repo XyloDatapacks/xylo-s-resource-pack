@@ -1,6 +1,7 @@
 {
-	"parent": "minecraft:item/generated",
+	"parent": "energy_manipulation:item/trinket/scrying_ward/scrying_ward",
 	"textures": {
-		"layer0": "minecraft:item/ender_eye"
+		"layer0": "item/ender_eye",
+		"layer1": "energy_manipulation:item/trinket/scrying_ward/outer_ring_active"
 	}
 }
