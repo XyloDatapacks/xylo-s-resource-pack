@@ -213,8 +213,20 @@
   "trinket.translocation_ward.break": {
     "sounds": [
       {
-        "name": "random/glass1",
-        "pitch": 1.5
+        "name": "block/nether_ore/break1",
+        "volume": 0.6
+      },
+      {
+        "name": "block/nether_ore/break2",
+        "volume": 0.6
+      },
+      {
+        "name": "block/nether_ore/break3",
+        "volume": 0.6
+      },
+      {
+        "name": "block/nether_ore/break4",
+        "volume": 0.6
       }
     ],
     "subtitle": "sounds.energy_manipulation.trinket.translocation_ward.break"
