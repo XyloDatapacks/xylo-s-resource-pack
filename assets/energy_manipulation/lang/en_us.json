@@ -6,6 +6,7 @@
 	"energy_manipulation.spell.back_ground.instruction": "\uE003",
 	"energy_manipulation.spell.back_ground.shape": "\uE004",
 	"energy_manipulation.spell.back_ground.effect": "\uE005",
+	"energy_manipulation.spell.back_ground.terminate": "\uE007",
 
 	"energy_manipulation.spell.display.far_left_1": " <<",
 	"energy_manipulation.spell.display.left_1": " <",
@@ -205,6 +206,12 @@
 	"energy_manipulation.spell.display.info.key.fire_mode.value.condition": "Fires every time the condition goes from false to true\n",
 	"energy_manipulation.spell.display.info.key.fire_mode.value.repeat": "Fires on repeat after the condition become true\n\n",
 	"energy_manipulation.spell.display.info.key.fire_rate": "Sets the fire rate of the turret\n\n",
+
+	"energy_manipulation.spell.display.info.key.terminate": "Condition to end the turret\n&/or\nInstruction to run at the end\n",
+	"energy_manipulation.spell.display.info.key.terminate.value.none": "\n\n",
+	"energy_manipulation.spell.display.info.key.terminate.value.consequence": "Both terminate condition and instruction to run after\n",
+	"energy_manipulation.spell.display.info.key.terminate.value.condition": "Condition to end the turret\n\n",
+	"energy_manipulation.spell.display.info.key.terminate.value.instruction": "Instruction to run when the turret ends\n\n",
 
 	"energy_manipulation.spell.display.info.key.effect": "Sets the effect of the shape. The effect behaves differently whether there is a target or not\n",
 	"energy_manipulation.spell.display.info.key.effect.value.none": "No effect\n\n",
