@@ -137,12 +137,6 @@
 	"energy_manipulation.spell.display.info.key.movement.value.parabolic": "Follow a parabolic trajectory\n\n",
 	"energy_manipulation.spell.display.info.key.movement.value.straight": "The trajectory is not affected by gravity\n\n",
 	"energy_manipulation.spell.display.info.key.movement.value.follow": "Follows a target with a specified offset\n\n",
-	"energy_manipulation.spell.display.info.key.follow_rotation": "Change the rotation to track a target or a position\n",
-	"energy_manipulation.spell.display.info.key.follow_rotation.value.fixed": "Fixed rotation\n\n",
-	"energy_manipulation.spell.display.info.key.follow_rotation.value.rotated_as": "Rotated as target\n\n",
-	"energy_manipulation.spell.display.info.key.follow_rotation.value.opposite_as": "Rotated opposite as target\n\n",
-	"energy_manipulation.spell.display.info.key.follow_rotation.value.toward": "Rotated toward a position\n\n",
-	"energy_manipulation.spell.display.info.key.follow_rotation.value.away_from": "Rotated away from a position\n\n",
 
 	"energy_manipulation.spell.display.info.key.duration": "Duration of the parent node\n\n",
 
@@ -244,7 +238,9 @@
 	"energy_manipulation.spell.display.info.key.yawn": "Horizontal angle\n\n",
 	"energy_manipulation.spell.display.info.key.pitch": "Vertical angle\n\n",
 	"energy_manipulation.spell.display.info.key.direction.value.facing": "Rotates to face a position\n\n",
+	"energy_manipulation.spell.display.info.key.direction.value.facing_away": "Rotates away from a position\n\n",
 	"energy_manipulation.spell.display.info.key.direction.value.rotated_as": "Uses the same rotation as a target\n\n",
+	"energy_manipulation.spell.display.info.key.direction.value.opposite_as": "Uses the opposite rotation as a target\n\n",
 	"energy_manipulation.spell.display.info.key.direction.value.random": "Rotates by a random angle in a range from the current direction\n",
 	"energy_manipulation.spell.display.info.key.direction.value.aim_point": "Rotates to face the aim point of a target\n\n",
 	"energy_manipulation.spell.display.info.key.direction.value.location": "Uses the same rotation as the one saved in a location\n\n",
