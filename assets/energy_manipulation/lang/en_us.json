@@ -7,6 +7,10 @@
 	"energy_manipulation.spell.back_ground.shape": "\uE004",
 	"energy_manipulation.spell.back_ground.effect": "\uE005",
 	"energy_manipulation.spell.back_ground.terminate": "\uE007",
+	"energy_manipulation.spell.back_ground.movement": "\uE008",
+	"energy_manipulation.spell.back_ground.target": "\uE009",
+	"energy_manipulation.spell.back_ground.position": "\uE00A",
+	"energy_manipulation.spell.back_ground.direction": "\uE00B",
 
 	"energy_manipulation.spell.display.far_left_1": " <<",
 	"energy_manipulation.spell.display.left_1": " <",
