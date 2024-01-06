@@ -3,42 +3,42 @@
         
         {
             "type": "bitmap",
-            "file": "energy_manipulation:item/icons/energy/generic.png",
+            "file": "energy_manipulation:item/font/energy/generic.png",
             "ascent": 12,
             "height": 14,
             "chars": ["\uE000"]
         },
         {
             "type": "bitmap",
-            "file": "energy_manipulation:item/icons/energy/sun.png",
+            "file": "energy_manipulation:item/font/energy/sun.png",
             "ascent": 12,
             "height": 14,
             "chars": ["\uE001"]
         },
         {
             "type": "bitmap",
-            "file": "energy_manipulation:item/icons/energy/ground.png",
+            "file": "energy_manipulation:item/font/energy/ground.png",
             "ascent": 12,
             "height": 14,
             "chars": ["\uE002"]
         },
         {
             "type": "bitmap",
-            "file": "energy_manipulation:item/icons/energy/soul.png",
+            "file": "energy_manipulation:item/font/energy/soul.png",
             "ascent": 12,
             "height": 14,
             "chars": ["\uE003"]
         },
         {
             "type": "bitmap",
-            "file": "energy_manipulation:item/icons/energy/dark.png",
+            "file": "energy_manipulation:item/font/energy/dark.png",
             "ascent": 12,
             "height": 14,
             "chars": ["\uE004"]
         },
         {
             "type": "bitmap",
-            "file": "energy_manipulation:item/icons/energy/void.png",
+            "file": "energy_manipulation:item/font/energy/void.png",
             "ascent": 12,
             "height": 14,
             "chars": ["\uE005"]

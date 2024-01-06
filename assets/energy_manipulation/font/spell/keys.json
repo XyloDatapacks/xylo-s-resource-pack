@@ -10,84 +10,84 @@
         },
         {
             "type": "bitmap",
-            "file": "energy_manipulation:item/spell/font/keys/generic.png",
+            "file": "energy_manipulation:item/font/spell/keys/generic.png",
             "ascent": 32,
             "height": 64,
             "chars": ["\uE000"]
         },
         {
             "type": "bitmap",
-            "file": "energy_manipulation:item/spell/font/keys/concatenate.png",
+            "file": "energy_manipulation:item/font/spell/keys/concatenate.png",
             "ascent": 32,
             "height": 64,
             "chars": ["\uE001"]
         },
         {
             "type": "bitmap",
-            "file": "energy_manipulation:item/spell/font/keys/program.png",
+            "file": "energy_manipulation:item/font/spell/keys/program.png",
             "ascent": 32,
             "height": 64,
             "chars": ["\uE002"]
         },
         {
             "type": "bitmap",
-            "file": "energy_manipulation:item/spell/font/keys/instruction.png",
+            "file": "energy_manipulation:item/font/spell/keys/instruction.png",
             "ascent": 32,
             "height": 64,
             "chars": ["\uE003"]
         },
         {
             "type": "bitmap",
-            "file": "energy_manipulation:item/spell/font/keys/shape.png",
+            "file": "energy_manipulation:item/font/spell/keys/shape.png",
             "ascent": 32,
             "height": 64,
             "chars": ["\uE004"]
         },
         {
             "type": "bitmap",
-            "file": "energy_manipulation:item/spell/font/keys/effect.png",
+            "file": "energy_manipulation:item/font/spell/keys/effect.png",
             "ascent": 32,
             "height": 64,
             "chars": ["\uE005"]
         },
         {
             "type": "bitmap",
-            "file": "energy_manipulation:item/spell/font/info.png",
+            "file": "energy_manipulation:item/font/spell/info.png",
             "ascent": 32,
             "height": 64,
             "chars": ["\uE006"]
         },
         {
             "type": "bitmap",
-            "file": "energy_manipulation:item/spell/font/keys/terminate.png",
+            "file": "energy_manipulation:item/font/spell/keys/terminate.png",
             "ascent": 32,
             "height": 64,
             "chars": ["\uE007"]
         },
         {
             "type": "bitmap",
-            "file": "energy_manipulation:item/spell/font/keys/movement.png",
+            "file": "energy_manipulation:item/font/spell/keys/movement.png",
             "ascent": 32,
             "height": 64,
             "chars": ["\uE008"]
         },
         {
             "type": "bitmap",
-            "file": "energy_manipulation:item/spell/font/keys/target.png",
+            "file": "energy_manipulation:item/font/spell/keys/target.png",
             "ascent": 32,
             "height": 64,
             "chars": ["\uE009"]
         },
         {
             "type": "bitmap",
-            "file": "energy_manipulation:item/spell/font/keys/position.png",
+            "file": "energy_manipulation:item/font/spell/keys/position.png",
             "ascent": 32,
             "height": 64,
             "chars": ["\uE00A"]
         },
         {
             "type": "bitmap",
-            "file": "energy_manipulation:item/spell/font/keys/direction.png",
+            "file": "energy_manipulation:item/font/spell/keys/direction.png",
             "ascent": 32,
             "height": 64,
             "chars": ["\uE00B"]
