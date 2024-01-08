@@ -1,0 +1,823 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/0.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/1.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/2.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/3.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/4.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/5.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/6.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/7.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/8.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/9.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/10.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/11.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/12.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/13.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/14.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/15.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/16.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/17.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/18.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/19.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/20.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/21.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/22.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/23.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/24.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/25.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/26.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE026"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/27.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE027"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/28.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE028"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/29.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE029"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/30.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE030"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/31.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE031"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/32.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE032"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/33.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE033"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/34.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE034"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/35.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE035"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/36.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE036"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/37.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE037"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/38.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE038"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/39.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE039"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/40.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE040"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/41.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE041"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/42.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE042"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/43.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE043"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/44.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE044"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/45.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE045"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/46.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE046"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/47.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE047"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/48.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE048"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/49.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE049"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/50.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE050"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/51.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE051"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/52.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE052"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/53.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE053"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/54.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE054"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/55.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE055"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/56.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE056"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/57.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE057"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/58.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE058"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/59.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE059"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/60.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE060"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/61.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE061"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/62.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE062"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/63.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE063"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/64.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE064"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/65.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE065"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/66.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE066"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/67.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE067"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/68.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE068"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/69.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE069"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/70.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE070"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/71.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE071"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/72.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE072"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/73.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE073"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/74.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE074"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/75.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE075"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/76.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE076"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/77.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE077"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/78.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE078"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/79.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE079"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/80.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE080"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/81.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE081"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/82.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE082"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/83.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE083"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/84.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE084"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/85.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE085"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/86.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE086"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/87.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE087"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/88.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE088"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/89.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE089"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/mind/focus/90.png",
+            "ascent": 165,
+            "height": 226,
+            "chars": [
+                "\uE090"
+            ]
+        }
+    ]
+}

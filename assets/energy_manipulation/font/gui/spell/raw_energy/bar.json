@@ -1,0 +1,823 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/0.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/1.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/2.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/3.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/4.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/5.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/6.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/7.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/8.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/9.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/10.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/11.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/12.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/13.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/14.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/15.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/16.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/17.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/18.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/19.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/20.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/21.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/22.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/23.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/24.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/25.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/26.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE026"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/27.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE027"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/28.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE028"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/29.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE029"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/30.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE030"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/31.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE031"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/32.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE032"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/33.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE033"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/34.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE034"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/35.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE035"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/36.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE036"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/37.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE037"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/38.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE038"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/39.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE039"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/40.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE040"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/41.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE041"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/42.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE042"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/43.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE043"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/44.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE044"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/45.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE045"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/46.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE046"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/47.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE047"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/48.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE048"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/49.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE049"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/50.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE050"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/51.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE051"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/52.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE052"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/53.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE053"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/54.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE054"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/55.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE055"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/56.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE056"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/57.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE057"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/58.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE058"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/59.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE059"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/60.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE060"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/61.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE061"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/62.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE062"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/63.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE063"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/64.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE064"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/65.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE065"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/66.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE066"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/67.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE067"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/68.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE068"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/69.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE069"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/70.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE070"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/71.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE071"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/72.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE072"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/73.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE073"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/74.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE074"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/75.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE075"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/76.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE076"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/77.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE077"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/78.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE078"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/79.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE079"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/80.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE080"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/81.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE081"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/82.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE082"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/83.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE083"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/84.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE084"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/85.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE085"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/86.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE086"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/87.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE087"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/88.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE088"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/89.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE089"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "energy_manipulation:item/font/gui/spell/raw_energy/90.png",
+            "ascent": 185,
+            "height": 226,
+            "chars": [
+                "\uE090"
+            ]
+        }
+    ]
+}
