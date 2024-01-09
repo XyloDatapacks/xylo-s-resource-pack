@@ -381,6 +381,9 @@
 	"settings.energy_manipulation.shape_particles.turret": "Turret Particles Visibility",
 	"settings.energy_manipulation.shape_particles.active": "True",
 	"settings.energy_manipulation.shape_particles.inactive": "False",
+	"settings.energy_manipulation.gui.show_gui": "Show GUI",
+	"settings.energy_manipulation.gui.show_gui.active": "True",
+	"settings.energy_manipulation.gui.show_gui.inactive": "False",
 
 
 
