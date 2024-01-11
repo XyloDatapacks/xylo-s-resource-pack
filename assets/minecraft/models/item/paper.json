@@ -61,7 +61,14 @@
 		{"predicate": {"custom_model_data":12341142}, "model": "energy_manipulation:item/spell/shapes/aoe/ground"},
 		{"predicate": {"custom_model_data":12341143}, "model": "energy_manipulation:item/spell/shapes/aoe/soul"},
 		{"predicate": {"custom_model_data":12341144}, "model": "energy_manipulation:item/spell/shapes/aoe/dark"},
-		{"predicate": {"custom_model_data":12341145}, "model": "energy_manipulation:item/spell/shapes/aoe/void"}
+		{"predicate": {"custom_model_data":12341145}, "model": "energy_manipulation:item/spell/shapes/aoe/void"},
+
+		{"predicate": {"custom_model_data":12341150}, "model": "energy_manipulation:item/spell/shapes/dart/generic"},
+		{"predicate": {"custom_model_data":12341151}, "model": "energy_manipulation:item/spell/shapes/dart/sun"},
+		{"predicate": {"custom_model_data":12341152}, "model": "energy_manipulation:item/spell/shapes/dart/ground"},
+		{"predicate": {"custom_model_data":12341153}, "model": "energy_manipulation:item/spell/shapes/dart/soul"},
+		{"predicate": {"custom_model_data":12341154}, "model": "energy_manipulation:item/spell/shapes/dart/dark"},
+		{"predicate": {"custom_model_data":12341155}, "model": "energy_manipulation:item/spell/shapes/dart/void"}
 		
 	]
 }

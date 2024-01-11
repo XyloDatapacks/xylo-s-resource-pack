@@ -29,6 +29,12 @@
     ],
     "subtitle": "sounds.energy_manipulation.spell.cast.prepare_cast"
   },
+  "spell.max_charge": {
+    "sounds": [
+      "random/successful_hit"
+    ],
+    "subtitle": "sounds.energy_manipulation.spell.cast.max_charge"
+  },
   "spell.cast": {
     "sounds": [
       {

@@ -129,10 +129,11 @@
 
 	"energy_manipulation.spell.display.info.key.concatenate_index": "Index of the concatenate\n\n",
 
-	"energy_manipulation.spell.display.info.key.shape": "Sets the behaviour of the spell\n\n",
+	"energy_manipulation.spell.display.info.key.shape": "Sets the behaviour of the spell.\nEach shape has a different effect intensity\n",
 	"energy_manipulation.spell.display.info.key.shape.value.none": "The spell will do nothing in this concatenate\n\n",
 	"energy_manipulation.spell.display.info.key.shape.value.self": "Apply an effect to a chosen target\n\n",
 	"energy_manipulation.spell.display.info.key.shape.value.projectile": "behaves as a projectile and applies an effect to the target hit\n",
+	"energy_manipulation.spell.display.info.key.shape.value.dart": "behaves as a fast projectile and applies an effect to the target hit\n",
 	"energy_manipulation.spell.display.info.key.shape.value.sprout": "behaves as a slow projectile and applies an effect to the target hit\n",
 	"energy_manipulation.spell.display.info.key.shape.value.turret": "Does not apply effects, but runs the next concatenate on certain conditions\n",
 	"energy_manipulation.spell.display.info.key.shape.value.aoe": "Creates an area of effect which will apply an effect to all matching targets in range\n",
@@ -391,6 +392,7 @@
 	"sounds.energy_manipulation.spell.book.close": "Spell book closes",
 
 	"sounds.energy_manipulation.spell.cast.prepare_cast": "Player prepares casting",
+	"sounds.energy_manipulation.spell.cast.max_charge": "Spell fully charged",
 	"sounds.energy_manipulation.spell.cast.cast": "Player casted",
 	"sounds.energy_manipulation.spell.cost.withering": "Energy withering",
 
