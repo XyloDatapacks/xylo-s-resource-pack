@@ -142,6 +142,7 @@
 	"energy_manipulation.spell.display.info.key.movement.value.parabolic": "Follow a parabolic trajectory\n\n",
 	"energy_manipulation.spell.display.info.key.movement.value.straight": "The trajectory is not affected by gravity\n\n",
 	"energy_manipulation.spell.display.info.key.movement.value.follow": "Follows a target with a specified offset\n\n",
+	"energy_manipulation.spell.display.info.key.movement.value.seek": "Seek a target with a specified offset\n\n",
 
 	"energy_manipulation.spell.display.info.key.duration": "Duration of the parent node\n\n",
 
