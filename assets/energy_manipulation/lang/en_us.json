@@ -386,6 +386,9 @@
 	"settings.energy_manipulation.gui.show_gui": "Show GUI",
 	"settings.energy_manipulation.gui.show_gui.active": "True",
 	"settings.energy_manipulation.gui.show_gui.inactive": "False",
+	"settings.energy_manipulation.spell_settings.use_raw_energy_first": "Use Raw Energy First",
+	"settings.energy_manipulation.spell_settings.use_raw_energy_first.active": "True",
+	"settings.energy_manipulation.spell_settings.use_raw_energy_first.inactive": "False",
 
 
 
