@@ -284,9 +284,12 @@
 	"energy_manipulation.spell.display.info.key.slot.value.hotbar": "A slot in the hotbar\n\n",
 	"energy_manipulation.spell.display.info.key.slot.value.inventory": "A slot in the inventory\n\n",
 
-
-	
 	"energy_manipulation.spell.run.effect.release_potion.aoe": "Released Potion",
+
+
+
+
+	"energy_manipulation.mind.meditation.enter": "Press %s Twice Quickly to Exit",
 
 
 
