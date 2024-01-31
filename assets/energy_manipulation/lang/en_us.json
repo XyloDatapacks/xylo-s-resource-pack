@@ -381,6 +381,7 @@
 
 
 	"settings.energy_manipulation.shape_particles.projectile": "Projectile Particles Visibility",
+	"settings.energy_manipulation.shape_particles.dart": "Dart Particles Visibility",
 	"settings.energy_manipulation.shape_particles.sprout": "Sprout Particles Visibility",
 	"settings.energy_manipulation.shape_particles.aoe": "Area of Effect Particles Visibility",
 	"settings.energy_manipulation.shape_particles.turret": "Turret Particles Visibility",
