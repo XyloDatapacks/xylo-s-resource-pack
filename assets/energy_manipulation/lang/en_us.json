@@ -290,6 +290,10 @@
 
 
 	"energy_manipulation.mind.meditation.enter": "Press %s Twice Quickly to Exit",
+	"energy_manipulation.mind.meditation.action.change_mode.0": "Attack Mode: 0",
+	"energy_manipulation.mind.meditation.action.change_mode.1": "Attack Mode: 1",
+	"energy_manipulation.mind.meditation.action.change_mode.2": "Attack Mode: 2",
+	"energy_manipulation.mind.meditation.action.change_mode.3": "Attack Mode: 3",
 
 
 
