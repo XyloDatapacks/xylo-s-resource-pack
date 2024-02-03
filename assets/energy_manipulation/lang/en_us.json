@@ -290,7 +290,7 @@
 
 
 	"energy_manipulation.mind.meditation.enter": "Press %s Twice Quickly to Exit",
-	"energy_manipulation.mind.meditation.action.change_mode.0": "Attack Mode: 0",
+	"energy_manipulation.mind.meditation.action.change_mode.0": "Attack Mode: Self Condemnation",
 	"energy_manipulation.mind.meditation.action.change_mode.1": "Attack Mode: 1",
 	"energy_manipulation.mind.meditation.action.change_mode.2": "Attack Mode: 2",
 	"energy_manipulation.mind.meditation.action.change_mode.3": "Attack Mode: 3",
@@ -384,7 +384,7 @@
 	"advancements.energy_manipulation.trinket.translocation_ward.generic_description2": "\nWhen placed, blocks translocation from inside to outside the influence range",
 	"advancements.energy_manipulation.mind.meditation.name": "Meditation",
 	"advancements.energy_manipulation.mind.meditation.description": "b",
-	"advancements.energy_manipulation.mind.meditation.description2": "c",
+	"advancements.energy_manipulation.mind.meditation.description2": "c %1$s %2$s %3$s",
 
 	"settings.energy_manipulation.shape_particles.projectile": "Projectile Particles Visibility",
 	"settings.energy_manipulation.shape_particles.dart": "Dart Particles Visibility",
@@ -399,7 +399,8 @@
 	"settings.energy_manipulation.spell_settings.use_raw_energy_first": "Use Raw Energy First",
 	"settings.energy_manipulation.spell_settings.use_raw_energy_first.active": "True",
 	"settings.energy_manipulation.spell_settings.use_raw_energy_first.inactive": "False",
-
+	"settings.energy_manipulation.mind.meditation.enabled": "Meditation Enabled",
+	"settings.energy_manipulation.mind.meditation.disabled": "Meditation Disabled",
 
 
 	"sounds.energy_manipulation.spell.book.open": "Spell book opens",

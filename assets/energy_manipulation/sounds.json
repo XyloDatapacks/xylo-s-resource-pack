@@ -276,13 +276,47 @@
   },
   "mind.meditation.attack": {
     "sounds": [
-      
+      {
+        "name": "entity/player/attack/crit1",
+        "volume": 0.7
+      },
+      {
+        "name": "entity/player/attack/crit2",
+        "volume": 0.7
+      },
+      {
+        "name": "entity/player/attack/crit3",
+        "volume": 0.7
+      }
     ],
     "subtitle": "sounds.energy_manipulation.mind.meditation.attack"
   },
   "mind.meditation.propel": {
     "sounds": [
-      
+      {
+        "name": "mob/phantom/flap1",
+        "volume": 0.9
+      },
+      {
+        "name": "mob/phantom/flap2",
+        "volume": 0.9
+      },
+      {
+        "name": "mob/phantom/flap3",
+        "volume": 0.9
+      },
+      {
+        "name": "mob/phantom/flap4",
+        "volume": 0.9
+      },
+      {
+        "name": "mob/phantom/flap5",
+        "volume": 0.9
+      },
+      {
+        "name": "mob/phantom/flap6",
+        "volume": 0.9
+      }
     ],
     "subtitle": "sounds.energy_manipulation.mind.meditation.propel"
   },
