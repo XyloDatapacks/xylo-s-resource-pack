@@ -382,7 +382,9 @@
 	"advancements.energy_manipulation.trinket.scrying_ward.generic_description2":"\nWhen active consumes %1$s to hide you from 'object' and 'marked entity' target selectors",
 	"advancements.energy_manipulation.trinket.translocation_ward.generic_description": "Kill a %1$s Spirit, holding a single ender pearl, to obtain a %2$s",
 	"advancements.energy_manipulation.trinket.translocation_ward.generic_description2": "\nWhen placed, blocks translocation from inside to outside the influence range",
-
+	"advancements.energy_manipulation.mind.meditation.name": "Meditation",
+	"advancements.energy_manipulation.mind.meditation.description": "b",
+	"advancements.energy_manipulation.mind.meditation.description2": "c",
 
 	"settings.energy_manipulation.shape_particles.projectile": "Projectile Particles Visibility",
 	"settings.energy_manipulation.shape_particles.dart": "Dart Particles Visibility",
@@ -429,6 +431,12 @@
 	"sounds.energy_manipulation.trinket.scrying_ward.unmark": "Scrying Ward unmark player",
 	"sounds.energy_manipulation.trinket.translocation_ward.throw": "Translocation Ward flies",
 	"sounds.energy_manipulation.trinket.translocation_ward.break": "Translocation Ward broken",
-	"sounds.energy_manipulation.trinket.translocation_ward.block_tp": "Translocation Ward tp blocked"
+	"sounds.energy_manipulation.trinket.translocation_ward.block_tp": "Translocation Ward tp blocked",
+
+	"sounds.energy_manipulation.mind.meditation.enter": "Player enters meditation",
+	"sounds.energy_manipulation.mind.meditation.exit": "Player exits meditation",
+	"sounds.energy_manipulation.mind.meditation.attack": "Player mind attack",
+	"sounds.energy_manipulation.mind.meditation.propel": "Player mind propel",
+	"sounds.energy_manipulation.mind.meditation.change_mode": "Player mind change attack mode"
 }
 

@@ -173,6 +173,8 @@
     ],
     "subtitle": "sounds.energy_manipulation.jar_of_energy.block.empty"
   },
+
+
   "trinket.scrying_ward.activate": {
     "sounds": [
       {
@@ -257,5 +259,37 @@
       }
     ],
     "subtitle": "sounds.energy_manipulation.trinket.translocation_ward.block_tp"
+  },
+
+
+  "mind.meditation.enter": {
+    "sounds": [
+
+    ],
+    "subtitle": "sounds.energy_manipulation.mind.meditation.enter"
+  },
+  "mind.meditation.exit": {
+    "sounds": [
+      
+    ],
+    "subtitle": "sounds.energy_manipulation.mind.meditation.exit"
+  },
+  "mind.meditation.attack": {
+    "sounds": [
+      
+    ],
+    "subtitle": "sounds.energy_manipulation.mind.meditation.attack"
+  },
+  "mind.meditation.propel": {
+    "sounds": [
+      
+    ],
+    "subtitle": "sounds.energy_manipulation.mind.meditation.propel"
+  },
+  "mind.meditation.change_mode": {
+    "sounds": [
+      
+    ],
+    "subtitle": "sounds.energy_manipulation.mind.meditation.change_mode"
   }
 }
