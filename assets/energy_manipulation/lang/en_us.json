@@ -290,10 +290,10 @@
 
 
 	"energy_manipulation.mind.meditation.enter": "Press %s Twice Quickly to Exit",
-	"energy_manipulation.mind.meditation.action.change_mode.0": "Attack Mode: Self Condemnation",
-	"energy_manipulation.mind.meditation.action.change_mode.1": "Attack Mode: 1",
-	"energy_manipulation.mind.meditation.action.change_mode.2": "Attack Mode: 2",
-	"energy_manipulation.mind.meditation.action.change_mode.3": "Attack Mode: 3",
+	"energy_manipulation.mind.meditation.action.change_mode.0": "Order: Self Condemnation",
+	"energy_manipulation.mind.meditation.action.change_mode.1": "Order: 1",
+	"energy_manipulation.mind.meditation.action.change_mode.2": "Order: 2",
+	"energy_manipulation.mind.meditation.action.change_mode.3": "Order: 3",
 
 
 
@@ -383,8 +383,8 @@
 	"advancements.energy_manipulation.trinket.translocation_ward.generic_description": "Kill a %1$s Spirit, holding a single ender pearl, to obtain a %2$s",
 	"advancements.energy_manipulation.trinket.translocation_ward.generic_description2": "\nWhen placed, blocks translocation from inside to outside the influence range",
 	"advancements.energy_manipulation.mind.meditation.name": "Meditation",
-	"advancements.energy_manipulation.mind.meditation.description": "b",
-	"advancements.energy_manipulation.mind.meditation.description2": "c %1$s %2$s %3$s",
+	"advancements.energy_manipulation.mind.meditation.description": "Leave your body by meditating. While meditating dash against other players and mobs to attack their mind, thus reducing their focus. Once their focus is gone, mind attacking them will compel them to follow the selected order",
+	"advancements.energy_manipulation.mind.meditation.description2": "\n- Double click %1$s while facing down to start meditating\n- Hold %2$s and release to dash forward\n- Click %3$s to cycle through the orders",
 
 	"settings.energy_manipulation.shape_particles.projectile": "Projectile Particles Visibility",
 	"settings.energy_manipulation.shape_particles.dart": "Dart Particles Visibility",
