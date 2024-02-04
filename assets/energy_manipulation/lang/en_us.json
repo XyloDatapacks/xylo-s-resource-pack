@@ -437,6 +437,7 @@
 	"sounds.energy_manipulation.mind.meditation.enter": "Player enters meditation",
 	"sounds.energy_manipulation.mind.meditation.exit": "Player exits meditation",
 	"sounds.energy_manipulation.mind.meditation.attack": "Player mind attack",
+	"sounds.energy_manipulation.mind.meditation.apply_order": "Player compel entity",
 	"sounds.energy_manipulation.mind.meditation.propel": "Player mind propel",
 	"sounds.energy_manipulation.mind.meditation.change_mode": "Player mind change attack mode"
 }
