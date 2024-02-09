@@ -2,6 +2,20 @@
   "pack": {
     "description": "Resurcepack needed for all Xylo_Datapacks's packs",
     "pack_format": 18,
-    "supported_formats": [18, 22]
+    "supported_formats": {
+      "min_inclusive": 18,
+      "max_inclusive": 26
+    }
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": {
+          "min_inclusive": 18,
+          "max_inclusive": 24
+        },
+        "directory": "overlay_1-20-3"
+      }
+    ]
   }
 }
