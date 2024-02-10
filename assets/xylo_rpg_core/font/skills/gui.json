@@ -1,0 +1,12 @@
+{
+    "providers": [
+        
+        {
+            "type": "bitmap",
+            "file": "xylo_rpg_core:item/font/skills/gui/background.png",
+            "ascent": 32,
+            "height": 64,
+            "chars": ["\uE000"]
+        }
+    ]
+}
