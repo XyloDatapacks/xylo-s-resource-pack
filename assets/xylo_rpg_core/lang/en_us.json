@@ -1,6 +1,9 @@
 {
+	"item.xylo_rpg_core.generic.lore.level": "Level: ",
+	"item.xylo_rpg_core.generic.lore.rarity": "",
 	"item.xylo_rpg_core.generic.lore.skills": "Skills:",
-	"item.xylo_rpg_core.generic.lore.requirements": "Requirements:"
+	"item.xylo_rpg_core.generic.lore.requirements": "Requirements:",
+	"item.xylo_rpg_core.generic.lore.sockets": "Sockets:"
 
 
 }
