@@ -1,9 +1,17 @@
 {
 	"item.xylo_rpg_core.generic.lore.level": "Level: ",
 	"item.xylo_rpg_core.generic.lore.rarity": "",
+	"item.xylo_rpg_core.generic.lore.rarity.common": "Common",
+	"item.xylo_rpg_core.generic.lore.rarity.uncommon": "Uncommon",
+	"item.xylo_rpg_core.generic.lore.rarity.rare": "Rare",
+	"item.xylo_rpg_core.generic.lore.rarity.epic": "Epic",
+	"item.xylo_rpg_core.generic.lore.rarity.legendary": "Legendary",
+	"item.xylo_rpg_core.generic.lore.rarity.mystical": "Mystical",
 	"item.xylo_rpg_core.generic.lore.skills": "Skills:",
 	"item.xylo_rpg_core.generic.lore.requirements": "Requirements:",
-	"item.xylo_rpg_core.generic.lore.sockets": "Sockets:"
+	"item.xylo_rpg_core.generic.lore.sockets": "Sockets:",
 
+	"item.xylo_rpg_core.charm.base_name": "Charm",
 
+	"sounds.xylo_rpg_core.level.level_up": "Levels Up"
 }

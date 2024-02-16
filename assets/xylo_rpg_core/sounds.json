@@ -1,0 +1,12 @@
+{
+  "level.level_up": {
+    "sounds": [
+      {
+        "name": "ui/toast/challenge_complete",
+        "volume": 0.6
+      }
+    ],
+    "subtitle": "sounds.xylo_rpg_core.level.level_up"
+  }
+
+}
