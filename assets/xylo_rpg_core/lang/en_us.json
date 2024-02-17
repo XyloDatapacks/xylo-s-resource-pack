@@ -8,10 +8,11 @@
 	"item.xylo_rpg_core.generic.lore.rarity.legendary": "Legendary",
 	"item.xylo_rpg_core.generic.lore.rarity.mystical": "Mystical",
 	"item.xylo_rpg_core.generic.lore.skills": "Skills:",
+	"item.xylo_rpg_core.generic.lore.ability": "Ability:",
 	"item.xylo_rpg_core.generic.lore.requirements": "Requirements:",
 	"item.xylo_rpg_core.generic.lore.sockets": "Sockets:",
 
-	"item.xylo_rpg_core.charm.base_name": "Charm",
+	"item.xylo_rpg_core.charms.base_name": "Charm",
 
 	"sounds.xylo_rpg_core.level.level_up": "Levels Up"
 }
