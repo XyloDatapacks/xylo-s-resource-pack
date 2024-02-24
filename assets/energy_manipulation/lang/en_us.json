@@ -250,6 +250,7 @@
 	"energy_manipulation.spell.display.info.key.direction.value.random": "Rotates by a random angle in a range from the current direction\n",
 	"energy_manipulation.spell.display.info.key.direction.value.aim_point": "Rotates to face the aim point of a target\n\n",
 	"energy_manipulation.spell.display.info.key.direction.value.location": "Uses the same rotation as the one saved in a location\n\n",
+	"energy_manipulation.spell.display.info.key.direction.value.align": "Align direction to the nearest axis\n\n",
 
 	"energy_manipulation.spell.display.info.key.position": "Changes the execution position\n\n",
 	"energy_manipulation.spell.display.info.key.position.value.current": "Keeps the current position\n\n",
@@ -271,7 +272,16 @@
 	"energy_manipulation.spell.display.info.key.anchor.value.eyes": "Position the context at eyes level\n\n",
 	"energy_manipulation.spell.display.info.key.position.value.ray_trace": "Runs a scan in the current direction and chooses the position of the first block and/or entity found\n",
 	"energy_manipulation.spell.display.info.key.position.value.location": "Uses the same position as the one saved in a location\n\n",
-	
+	"energy_manipulation.spell.display.info.key.position.value.align": "Align position to the chosen axes\n\n",
+	"energy_manipulation.spell.display.info.key.axis": "Select axis\n\n",
+	"energy_manipulation.spell.display.info.key.axis.value.xyz": "x, y, z axes\n\n",
+	"energy_manipulation.spell.display.info.key.axis.value.x": "x axis\n\n",
+	"energy_manipulation.spell.display.info.key.axis.value.y": "y axis\n\n",
+	"energy_manipulation.spell.display.info.key.axis.value.z": "z axis\n\n",
+	"energy_manipulation.spell.display.info.key.axis.value.xy": "x, y axes\n\n",
+	"energy_manipulation.spell.display.info.key.axis.value.xz": "x, z axes\n\n",
+	"energy_manipulation.spell.display.info.key.axis.value.yz": "y, z axes\n\n",
+
 	"energy_manipulation.spell.display.info.key.blocking_hits": "What will stop the ray-trace (if nothing is found, it will stop at max distance)\n",
 	"energy_manipulation.spell.display.info.key.blocking_hits.value.block_and_entities": "Stops when it finds blocks or entities\n\n",
 	"energy_manipulation.spell.display.info.key.blocking_hits.value.blocks": "Stops only when it finds blocks\n\n",
