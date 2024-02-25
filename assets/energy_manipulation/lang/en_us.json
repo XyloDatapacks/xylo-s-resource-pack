@@ -79,6 +79,9 @@
 	"energy_manipulation.spell.value.really_fast": "really fast",
 	"energy_manipulation.spell.value.release_potion": "release potion",
 	"energy_manipulation.spell.value.spell_break": "spell break",
+	"energy_manipulation.spell.value.damage_taken": "taken dmg",
+	"energy_manipulation.spell.value.damage_dealt": "dealt dmg",
+	"energy_manipulation.spell.value.damage_dealt_direct": "direct dmg",
 	
 	
 
@@ -173,6 +176,7 @@
 	"energy_manipulation.spell.display.info.key.target.value.subject": "The entity targeted by the effect\n\n",
 	"energy_manipulation.spell.display.info.key.target.value.objects": "Targets of the last effect (of THIS spell) which activated before this node got called\n(Bypasses concealed mind)",
 	"energy_manipulation.spell.display.info.key.target.value.marked_entity": "Entities saved by the player\n(Bypasses concealed mind)\n",
+	"energy_manipulation.spell.display.info.key.target.value.attacker": "Entity which attacked the caster\n(Bypasses concealed mind)\n",
 	"energy_manipulation.spell.display.info.key.target.value.player": "Players\n(Cannot select invisible players)\n",
 	"energy_manipulation.spell.display.info.key.target.value.mob": "Mobs\n\n",
 	"energy_manipulation.spell.display.info.key.target.value.player_and_mob": "Players and Mobs \n(Cannot select invisible players)\n",
@@ -187,6 +191,11 @@
 	"energy_manipulation.spell.display.info.key.feature.value.sneaking": "Target is sneaking\n\n",
 	"energy_manipulation.spell.display.info.key.feature.value.swimming": "Target is swimming\n\n",
 	"energy_manipulation.spell.display.info.key.feature.value.on_fire": "Target is on fire\n\n",
+	"energy_manipulation.spell.display.info.key.feature.value.on_ground": "Is on ground\n\n",
+	"energy_manipulation.spell.display.info.key.feature.value.in_air": "Is in air\n\n",
+	"energy_manipulation.spell.display.info.key.feature.value.damage_taken": "Taken damage\n(Only works on players)\n\n",
+	"energy_manipulation.spell.display.info.key.feature.value.damage_dealt": "Dealt damage\n(Only works on players)\n\n",
+	"energy_manipulation.spell.display.info.key.feature.value.damage_dealt_direct": "Dealt direct damage\n(Only works on players)\n\n",
 	"energy_manipulation.spell.display.info.key.feature.value.shape_projectile": "The spell is in a projectile shape\n\n",
 	"energy_manipulation.spell.display.info.key.feature.value.shape_sprout": "The spell is in a sprout shape\n\n",
 	"energy_manipulation.spell.display.info.key.feature.value.shape_turret": "The spell is in a turret shape\n\n",
